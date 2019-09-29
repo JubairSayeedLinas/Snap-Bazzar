@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1051317568527",
+    "firebase_url": "https://snap-bazaar.firebaseio.com",
+    "project_id": "snap-bazaar",
+    "storage_bucket": "snap-bazaar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051317568527:android:4fce51c77c261580",
+        "android_client_info": {
+          "package_name": "com.linix_lab.snapbazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051317568527-thp75qe2ob3vr7qcghuro84d2u467njb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.linix_lab.snapbazaar",
+            "certificate_hash": "c1d53defdcef8349951de4b10b9a7841e69f2a3d"
+          }
+        },
+        {
+          "client_id": "1051317568527-443pppaf62rd7417c5rl6t6nqoac1lfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4LJjtjfgo1aSEmOKeeXz7TU23A_PzYB8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051317568527-443pppaf62rd7417c5rl6t6nqoac1lfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
